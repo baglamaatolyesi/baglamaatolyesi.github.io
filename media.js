@@ -68,5 +68,7 @@ window.MEDIA = {
 "1aLVnUrLOtXg9ZRAfElv-LcWUnGXjmWRx": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/28-hacel-obasi.mp4",
 "1YxWXbyS59pA4xfSDVJQCo8YyC8iYBAZV": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/18-alistirma-04.mp4",
 "1_USXHFu18CeESDeGhUxAIfczn8W4OBVX": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/18-alistirma-04.mp4",
-"1m-IrLW5oaCpNhmdu9yKRjJufUMl9ahzr": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-1/01-alistirma-01.mp4"
+"1m-IrLW5oaCpNhmdu9yKRjJufUMl9ahzr": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-1/01-alistirma-01.mp4",
+"k02-19-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/19-oy-bahcenize-ben-giremedim.mp4",
+"k02-19-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/19-oy-bahcenize-ben-giremedim.mp4"
 };
