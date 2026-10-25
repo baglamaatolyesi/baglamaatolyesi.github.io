@@ -67,5 +67,6 @@ window.MEDIA = {
 "1CB4Y9k9QT9-vZl3CO9HGZ08WAEogScCR": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/17-hangi-bagin-bagbanisan.mp4",
 "1aLVnUrLOtXg9ZRAfElv-LcWUnGXjmWRx": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/28-hacel-obasi.mp4",
 "1YxWXbyS59pA4xfSDVJQCo8YyC8iYBAZV": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/18-alistirma-04.mp4",
-"1_USXHFu18CeESDeGhUxAIfczn8W4OBVX": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/18-alistirma-04.mp4"
+"1_USXHFu18CeESDeGhUxAIfczn8W4OBVX": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/18-alistirma-04.mp4",
+"1m-IrLW5oaCpNhmdu9yKRjJufUMl9ahzr": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-1/01-alistirma-01.mp4"
 };
