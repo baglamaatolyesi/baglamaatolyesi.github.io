@@ -70,5 +70,9 @@ window.MEDIA = {
 "1_USXHFu18CeESDeGhUxAIfczn8W4OBVX": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/18-alistirma-04.mp4",
 "1m-IrLW5oaCpNhmdu9yKRjJufUMl9ahzr": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-1/01-alistirma-01.mp4",
 "k02-19-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/19-oy-bahcenize-ben-giremedim.mp4",
-"k02-19-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/19-oy-bahcenize-ben-giremedim.mp4"
+"k02-19-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/19-oy-bahcenize-ben-giremedim.mp4",
+"k02-20-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/20-bitlisin-yollari.mp4",
+"k02-21-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/21-terazi-tartayirum.mp4",
+"k02-20-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/20-bitlisin-yollari.mp4",
+"k02-21-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/21-terazi-tartayirum.mp4"
 };
