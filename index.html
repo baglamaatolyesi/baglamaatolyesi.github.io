@@ -43,6 +43,8 @@
   .screen video{width:100%;height:100%;display:block;background:#000;object-fit:contain}
   .screen .plyr{height:100%;--plyr-color-main:var(--blue)}
   .screen .plyr video{object-fit:contain}
+  /* V178 - the first picture of the video instead of black; no big play arrow in the middle */
+  .screen .plyr__control--overlaid{display:none!important}
   .speed{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:8px;padding-top:8px}
   .speed[hidden]{display:none}
   .speed span{font-size:10.5pt;font-weight:600;color:var(--muted)}
@@ -603,7 +605,7 @@ const book = n => +n.replace(/[^0-9]/g, '') + '. Kitap';
 const M = window.MEDIA || {};
 const N = window.NOTES || {}, has = x => !!(N[split(x.t)[1]] || (window.LYRICS || {})[split(x.t)[1]]);   // V24 - no video, but notes/lyrics: still opens
 const frame = id => M[id]
-  ? '<video src="' + M[id] + '" controls playsinline preload="metadata"></video>'
+  ? '<video src="' + M[id] + '" poster="poster/' + id + '.jpg?v=178" controls playsinline preload="metadata"></video>'
   : '<iframe src="https://drive.google.com/file/d/' + id + '/preview" allow="autoplay; fullscreen" allowfullscreen></iframe>';
 
 const SPEEDS = [0.25, 0.5, 1, 1.5, 2];

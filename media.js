@@ -74,5 +74,6 @@ window.MEDIA = {
 "k02-20-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/20-bitlisin-yollari.mp4",
 "k02-21-uzun": "https://archive.org/download/baglama-atolyesi-uzun-sap-kitap-2/21-terazi-tartayirum.mp4",
 "k02-20-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/20-bitlisin-yollari.mp4",
-"k02-21-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/21-terazi-tartayirum.mp4"
+"k02-21-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/21-terazi-tartayirum.mp4",
+"k02-03-kisa": "https://archive.org/download/baglama-atolyesi-kisa-sap-kitap-2/03-evleri-var-engin.mp4"
 };
